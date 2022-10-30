@@ -1,1 +1,2 @@
 neo-python==0.8.1
+twisted>=22.10.0rc1 # not directly required, pinned by Snyk to avoid a vulnerability
